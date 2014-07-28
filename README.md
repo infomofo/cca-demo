@@ -1,6 +1,8 @@
 DEMO TO REPRODUCE CCA ISSUE WITH ANDROID IMAGES
 ===============================================
 
+This repo was created to demo an issue introduced in cca version 0.0.9.  It was resolved in version 0.2.2 but I am keeping the repo for posterity and to test future versions of cca as necessary.
+
 Steps to recreate issue
 -----------------------
 
